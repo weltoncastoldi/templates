@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Jul 2022 15:34:53 at http://admin.pixelstrap.com/zeta/theme/index.html https://themesbrand.com/velzon/html/default/widgets.html https://themesbrand.com/skote-mvc/layouts/index.html http://edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://admin.pixelstrap.com/zeta/theme/index.html https://themesbrand.com/velzon/html/default/widgets.html https://themesbrand.com/skote-mvc/layouts/index.html http://edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/index.html -O1 "C:\My Web Sites\HTML TEMPLATES" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:58:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): admin.pixelstrap.com/zeta/assets/js/task/custom.js
+17:30:34	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/css/vendors/preloader.gif (from admin.pixelstrap.com/zeta/assets/css/vendors/photoswipe.css)
+17:30:34	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/images/details_close.png (from admin.pixelstrap.com/zeta/assets/css/style.css)
+17:30:45	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/theme/cropped.jpg (from admin.pixelstrap.com/zeta/theme/image-cropper.html)
+17:30:49	Warning: 	File not parsed, looks like binary: https://themesbrand.com/velzon/html/default/assets/fonts/materialdesignicons-webfont.woff2?v=6.5.95
+17:30:49	Warning: 	File not parsed, looks like binary: https://themesbrand.com/velzon/html/default/assets/fonts/boxicons.woff2
+17:30:49	Warning: 	File not parsed, looks like binary: https://themesbrand.com/velzon/html/default/assets/fonts/la-brands-400.woff2
+17:30:50	Warning: 	File not parsed, looks like binary: https://themesbrand.com/velzon/html/default/assets/fonts/la-regular-400.woff2
+17:30:50	Warning: 	File not parsed, looks like binary: https://themesbrand.com/velzon/html/default/assets/fonts/la-solid-900.woff2
+17:30:51	Warning: 	File not parsed, looks like binary: https://themesbrand.com/velzon/html/default/assets/fonts/remixicon.woff2?t=1590207869815
+17:30:54	Error: 	"Not Found" (404) at link https://themesbrand.com/velzon/html/default/ecommerce-product-detail.html (from https://themesbrand.com/velzon/html/default/apps-ecommerce-cart.html)
+17:30:57	Warning: 	File not parsed, looks like binary: https://themesbrand.com/skote-mvc/layouts/assets/fonts/materialdesignicons-webfont.woff2?v=5.8.55
+17:30:57	Warning: 	File not parsed, looks like binary: https://themesbrand.com/skote-mvc/layouts/assets/fonts/boxicons.woff2
+17:30:58	Warning: 	File not parsed, looks like binary: https://themesbrand.com/skote-mvc/layouts/assets/fonts/fa-brands-400.woff2
+17:30:58	Warning: 	File not parsed, looks like binary: https://themesbrand.com/skote-mvc/layouts/assets/fonts/fa-regular-400.woff2
+17:30:58	Warning: 	File not parsed, looks like binary: https://themesbrand.com/skote-mvc/layouts/assets/fonts/fa-solid-900.woff2
+17:31:02	Error: 	"Not Found" (404) at link https://themesbrand.com/skote-mvc/layouts/assets/libs/flot.curvedLines/curvedLines.js (from https://themesbrand.com/skote-mvc/layouts/charts-flot.html)
+17:36:09	Error: 	"Not Found" (404) at link edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/video/video.mp4 (from edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/widgets_blog.html)
+17:36:09	Error: 	"Not Found" (404) at link edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/video/video.webm (from edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/widgets_blog.html)
+17:36:09	Error: 	"Not Found" (404) at link edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/video/video.ogv (from edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/widgets_blog.html)
+17:36:18	Error: 	"Not Found" (404) at link edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/www.youtube.com/watch?v=sK7riqg2mr4 (from edulearn-lms-admin-template.multipurposethemes.com/template/vertical/main/sample_lightbox.html)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/css/vendors/dropzone-spritemap.png (from admin.pixelstrap.com/zeta/assets/css/vendors/dropzone.css)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/css/vendors/${file-1x} (from admin.pixelstrap.com/zeta/assets/css/vendors/rating.css)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/css/vendors/${file-2x} (from admin.pixelstrap.com/zeta/assets/css/vendors/rating.css)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/css/images/tree/32px.png (from admin.pixelstrap.com/zeta/assets/css/vendors/tree.css)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/css/images/tree/40px.png (from admin.pixelstrap.com/zeta/assets/css/vendors/tree.css)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/images/icon-tree.png (from admin.pixelstrap.com/zeta/assets/css/vendors/tree.css)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/images/tree-1.png (from admin.pixelstrap.com/zeta/assets/css/vendors/tree.css)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/css/images/button_builder/colorpicker_overlay.png (from admin.pixelstrap.com/zeta/assets/css/vendors/button-builder.css)
+17:36:30	Error: 	"Not Found" (404) at link admin.pixelstrap.com/zeta/assets/css/images/button_builder/colorpicker_select.gif (from admin.pixelstrap.com/zeta/assets/css/vendors/button-builder.css)
+17:36:30	Warning: 	File not parsed, looks like binary: https://themesbrand.com/skote-mvc/layouts/assets/libs/summernote/font/summernote.woff2
+17:36:56	Error: 	"Not Found" (404) at link edulearn-lms-admin-template.multipurposethemes.com/assets/vendor_components/leaflet/images/layers.png (from edulearn-lms-admin-template.multipurposethemes.com/assets/vendor_components/leaflet/leaflet.css)
+17:36:56	Error: 	"Not Found" (404) at link edulearn-lms-admin-template.multipurposethemes.com/assets/vendor_components/leaflet/images/layers-2x.png (from edulearn-lms-admin-template.multipurposethemes.com/assets/vendor_components/leaflet/leaflet.css)
+17:36:56	Error: 	"Not Found" (404) at link edulearn-lms-admin-template.multipurposethemes.com/assets/vendor_components/leaflet/images/marker-icon.png (from edulearn-lms-admin-template.multipurposethemes.com/assets/vendor_components/leaflet/leaflet.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 2 minutes 6 seconds : 2526 links scanned, 2502 files written (304046243 bytes overall) [213035804 bytes received at 29079 bytes/sec], 110493524 bytes transferred using HTTP compression in 1237 files, ratio 16%, 3.6 requests per connection
+(21 errors, 13 warnings, 0 messages)

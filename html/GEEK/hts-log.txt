@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Jul 2022 18:16:09 at https://codescandy.com/geeks-bootstrap-5/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://codescandy.com/geeks-bootstrap-5/index.html -O1 "C:\My Web Sites\GEEK" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:19:27	Warning: 	Unable to test https://codescandy.com/geeks-bootstrap-5/docs/add-course.html (loop to same filename)
+18:19:27	Warning: 	link is probably looping, type unknown, aborting: https://codescandy.com/geeks-bootstrap-5/docs/add-course.html
+18:19:27	Error: 	"Not Found" (404) at link https://codescandy.com/geeks-bootstrap-5/pages/dashboard/ecommerce/admin-dashboard.html (from https://codescandy.com/geeks-bootstrap-5/pages/dashboard/ecommerce/product-grid.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/geeks-bootstrap-5/pages/jobs/company-photos.html active (from https://codescandy.com/geeks-bootstrap-5/pages/jobs/company-photos.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/geeks-bootstrap-5/docs/blog-single.html (from https://codescandy.com/geeks-bootstrap-5/docs/card-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/geeks-bootstrap-5/docs/course-path-single.html (from https://codescandy.com/geeks-bootstrap-5/docs/card-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/assets/images/course/course-javascript.jpg (from https://codescandy.com/geeks-bootstrap-5/docs/card-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/assets/images/course/course-css.jpg (from https://codescandy.com/geeks-bootstrap-5/docs/card-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/assets/images/course/course-gatsby.jpg (from https://codescandy.com/geeks-bootstrap-5/docs/card-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/assets/images/png/cta-instructor-1.png (from https://codescandy.com/geeks-bootstrap-5/docs/cta-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/geeks-bootstrap-5/docs/pages/sign-in.html (from https://codescandy.com/geeks-bootstrap-5/docs/hero-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/geeks-bootstrap-5/sign-up.html (from https://codescandy.com/geeks-bootstrap-5/docs/hero-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/assets/images/job/png/job-hero-section.png (from https://codescandy.com/geeks-bootstrap-5/docs/hero-snippet.html)
+18:19:28	Error: 	"Not Found" (404) at link https://codescandy.com/assets/images/background/acedamy-img/girl-image.png (from https://codescandy.com/geeks-bootstrap-5/docs/hero-snippet.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 19 seconds : 524 links scanned, 511 files written (73116661 bytes overall) [48939563 bytes received at 245927 bytes/sec], 45707781 bytes transferred using HTTP compression in 375 files, ratio 46%, 50.0 requests per connection
+(12 errors, 2 warnings, 0 messages)
